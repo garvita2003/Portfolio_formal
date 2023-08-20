@@ -6,14 +6,10 @@
 5) This website has - Skills, Education, Projects Portfolio, Experience and Service sections.
 6) I even added title name as well as logo.
 7) Various packages to install
-   1) Swiper - to style the sliding, navigation, pagination and effectflip,etc.
-      npm install swiper
-   2) EmailJs - to use for contact purpose to send email
-      npm install @emailjs/browser --save
-   3) Iconscout - in order to add inbuild icons,etc 
-      npm install --save @iconscout/react-unicons
-   4) Scroll - to add effect to the button, link, provide with animation, etc
-      npm install react-scroll
+   1) Swiper - to style the sliding, navigation, pagination and effectflip,etc. : npm install swiper
+   2) EmailJs - to use for contact purpose to send email : npm install @emailjs/browser --save
+   3) Iconscout - in order to add inbuild icons,etc : npm install --save @iconscout/react-unicons
+   4) Scroll - to add effect to the button, link, provide with animation, etc : npm install react-scroll
 
 
 # Technology/Language Used
